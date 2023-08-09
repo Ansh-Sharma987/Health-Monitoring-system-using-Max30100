@@ -1,1 +1,1 @@
-# Health-Monitoring-system-using-Max30100
+This project is made with the use of ESP-32 and MAX30100 Pulse oximeter and Heart rate Sensor, which measures the heartbeat and Spo2 of a person.Using this we can measure the heartbeat and spo2 in a person and send the data to ThingSpeak which allows to aggregate,visualize and analyze the livestream data.
